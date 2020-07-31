@@ -18,7 +18,7 @@ To run the code first install python and git,
 
 # Results
 
-# Top 10 longest words:
+## Top 10 longest words:
 
       வெடிபடுமண்டலத்திருளலைவெடிபடநடமிடுதுடியெழுகடியொலிதாளம் - 32
       மைந்தனுக்குப்பிடித்திருக்கிறதுஎத்தனைமுறை - 22
@@ -31,7 +31,7 @@ To run the code first install python and git,
       சேர்த்துவிடுவீர்கள்அஞ்சவேண்டியதில்லை - 20
       பனங்கொட்டைத்துருவலைப்போட்டிருந்தனர் - 20
      
-# Top 10 most frequent words:
+## Top 10 most frequent words:
       என்று:46886
       என்றான்:42788
       அவன்:40226
