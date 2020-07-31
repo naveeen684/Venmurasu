@@ -2,6 +2,13 @@ Venmurasu
 
 Finding top ten longest Tamil words and top ten most occurring words present in venmurasu , One of the longest Novel series in the world - 26 novels, 25000 pages in print, 7 years.
 
+Here we have used the data from venmurasu novel.
+
+Navel starting from,
+https://venmurasu.in/2014/01/01/%E0%AE%B5%E0%AF%86%E0%AE%A3%E0%AF%8D%E0%AE%AE%E0%AF%81%E0%AE%B0%E0%AE%9A%E0%AF%81-%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-%E0%AE%92%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AF%81/
+
+
+
 To run the code first install python and git,
 
       1)git clone https://github.com/naveeen684/Venmurasu-Final.git or directly download the zip from this repo
