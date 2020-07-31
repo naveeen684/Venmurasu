@@ -13,6 +13,8 @@ To run the code first install python and git,
       5)python combine.py
       To sort and get results,
       6)python sort.py
+      
+you can also find the deployed version here https://github.com/naveeen684/Venmurasu_django
 
 
 
