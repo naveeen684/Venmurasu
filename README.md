@@ -13,7 +13,7 @@ To run the code first install python and git,
 
       1)git clone https://github.com/naveeen684/Venmurasu-Final.git or directly download the zip from this repo
       2)cd Venmurasu-Final
-      3)pip install requirements.txt
+      3)pip install -r requirements.txt
       To scrap the data from beginning,
       4)python scrap.py
       To get the list of all words from existing data,
